@@ -20,9 +20,6 @@ def pressSpace():
     print("Jump")
     pyautogui.keyUp('space')
 
-##def pressDown():
-##    pyautogui.keyDown('down')
-##    pyautogui.keyUp('down')
 
 def imageGrab():
     box = (Cordinates.dinasaur[0]+ 70, Cordinates.dinasaur[1],
