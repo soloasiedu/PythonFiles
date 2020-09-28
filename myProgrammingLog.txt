@@ -1,0 +1,5 @@
+2020-07-06 08:05:42,354 - DEBUG - Start of program
+2020-07-06 08:05:42,354 - DEBUG - Start of factorial(0)
+2020-07-06 08:05:42,354 - DEBUG - i is 0, total is 0
+2020-07-06 08:05:42,354 - DEBUG - Return value is 0
+2020-07-06 08:05:42,370 - DEBUG - End of program
